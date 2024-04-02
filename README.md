@@ -1,5 +1,5 @@
 # Stalker Social
-
+<img src="assets/Stalker-Social.gif">
 O Stalker Social é um programa que utiliza uma biblioteca python para coletar informações básicas sobre perfis do instagram, incluindo o número de seguidores, biografia, quantidade de fotos, quantidade de likes e outras estatísticas relevantes.
 
 Este programa oferece uma interface simples e eficaz para os usuários recuperarem informações sobre contas do Instagram sem a necessidade de acessar manualmente cada perfil. Ele automatiza o processo de coleta de dados, permitindo que os usuários extraiam insights valiosos sobre perfis individuais ou até mesmo sobre conjuntos de contas.
